@@ -1,0 +1,11 @@
+site_name: Documentación Sprint 5 - Equipo 4
+site_description: Documentación técnica del Sprint 5
+site_author: Kirsha Morán, Lukas Tamulaitis
+theme:
+  name: material
+nav:
+  - Introducción: index.md
+  - Diseño de Interfaces Web (DIW): diw.md
+  - Desarrollo Web Entorno Cliente (DWEC): dwec.md
+  - Proyecto Intermodular: projecte.md
+  - Conclusión: conclusio.md
